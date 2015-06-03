@@ -1,4 +1,4 @@
-package by.masliakov.airline.entity.plane;
+package by.masliakov.airline.entity;
 
 import java.util.Comparator;
 
@@ -32,7 +32,9 @@ abstract public class Plane {
     }
 
     public void setCapacity(int capacity) {
-        this.capacity = capacity;
+        if (capacity > 0) {
+            this.capacity = capacity;
+        }
     }
 
     public int getIdPlane() {
@@ -40,7 +42,9 @@ abstract public class Plane {
     }
 
     public void setIdPlane(int idPlane) {
-        this.idPlane = idPlane;
+        if (idPlane > 0) {
+            this.idPlane = idPlane;
+        }
     }
 
     public int getMaxDistance() {
@@ -48,7 +52,9 @@ abstract public class Plane {
     }
 
     public void setMaxDistance(int distance) {
-        this.maxDistance = distance;
+        if (distance > 0) {
+            this.maxDistance = distance;
+        }
     }
 
     public int getNumOfEngine() {
@@ -56,7 +62,9 @@ abstract public class Plane {
     }
 
     public void setNumOfEngine(int numOfEngine) {
-        this.numOfEngine = numOfEngine;
+        if (numOfEngine > 0) {
+            this.numOfEngine = numOfEngine;
+        }
     }
 
     public String getBrand() {
@@ -64,7 +72,9 @@ abstract public class Plane {
     }
 
     public void setBrand(String brand) {
-        this.brand = brand;
+        if (brand != null) {
+            this.brand = brand;
+        }
     }
 
     public int getCrew() {
@@ -72,6 +82,7 @@ abstract public class Plane {
     }
 
     public void setCrew(int crew) {
+        if (crew > 0)
         this.crew = crew;
     }
 
@@ -80,7 +91,9 @@ abstract public class Plane {
     }
 
     public void setFuelConsumption(double fuelConsumption) {
-        this.fuelConsumption = fuelConsumption;
+        if (fuelConsumption > 0) {
+            this.fuelConsumption = fuelConsumption;
+        }
     }
 
     public String toString() {

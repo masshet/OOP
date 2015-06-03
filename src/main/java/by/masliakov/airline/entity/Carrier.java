@@ -1,4 +1,4 @@
-package by.masliakov.airline.entity.plane;
+package by.masliakov.airline.entity;
 
 /**
  * Created by mrstark on 21.5.15.
@@ -18,6 +18,8 @@ public class Carrier extends Plane {
     }
 
     public void setTypeOfCargo(String typeOfCargo) {
-        this.typeOfCargo = typeOfCargo;
+        if (typeOfCargo != null) {
+            this.typeOfCargo = typeOfCargo;
+        }
     }
 }

@@ -1,7 +1,5 @@
 package by.masliakov.airline.entity;
 
-import by.masliakov.airline.entity.plane.Plane;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;

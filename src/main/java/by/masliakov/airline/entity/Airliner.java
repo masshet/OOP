@@ -1,4 +1,4 @@
-package by.masliakov.airline.entity.plane;
+package by.masliakov.airline.entity;
 
 /**
  * Created by mrstark on 21.5.15.
@@ -18,6 +18,8 @@ public class Airliner extends Plane {
     }
 
     public void setNumOfPass(int numOfPass) {
-        this.numOfPass = numOfPass;
+        if (numOfPass > 0) {
+            this.numOfPass = numOfPass;
+        }
     }
 }

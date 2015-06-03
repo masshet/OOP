@@ -1,4 +1,4 @@
-package by.masliakov.airline.entity.plane;
+package by.masliakov.airline.entity;
 
 /**
  * Created by mrstark on 22.5.15.
@@ -18,6 +18,8 @@ public class Sportplane extends Plane {
     }
 
     public void setKindOfSport(String kindOfSport) {
-        this.kindOfSport = kindOfSport;
+        if (kindOfSport != null) {
+            this.kindOfSport = kindOfSport;
+        }
     }
 }

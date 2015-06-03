@@ -1,7 +1,6 @@
 package by.masliakov.airline.main;
 
 import by.masliakov.airline.entity.Airline;
-import by.masliakov.airline.entity.plane.Plane;
 import by.masliakov.airline.hardcode.AirlineCreator;
 import by.masliakov.airline.operation.AirplaneOperation;
 import org.apache.log4j.LogManager;
@@ -22,9 +21,8 @@ public class Main {
         Airline airline = new Airline();
         AirlineCreator airlineCreator = new AirlineCreator();
         airlineCreator.createAirline(airline);
-        AirplaneOperation airplaneOperation = new AirplaneOperation();
-        LOG.info("Total capacity: " + airplaneOperation.countTotalCapacity(airline));
-        LOG.info("total number of passenger: " + airplaneOperation.countTotalNumberOfPassangers(airline));
+        LOG.info("Total capacity: " + AirplaneOperation.countTotalCapacity(airline));
+        LOG.info("total number of passenger: " + AirplaneOperation.countTotalNumberOfPassangers(airline));
         airline.sortByMaxDistance();
     }
 }

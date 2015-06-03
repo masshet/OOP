@@ -1,7 +1,6 @@
 package by.masliakov.airline.hardcode;
 
-import by.masliakov.airline.entity.Airline;
-import by.masliakov.airline.entity.plane.*;
+import by.masliakov.airline.entity.*;
 import org.apache.log4j.Logger;
 
 import java.util.Random;
@@ -37,7 +36,7 @@ public class AirlineCreator {
             case 5:
                 return new Mailplane(idPlane, distance, numOfEngine, name, crew, fuelConsumption, capacity, Constant.nameOfCompany);
             default:
-                return null;
+                throw new IllegalArgumentException("illegal mode");
         }
     }
 }
