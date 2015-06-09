@@ -7,9 +7,8 @@ public class Fireplane extends Plane {
 
     private double rateOfDischarge;
 
-    public Fireplane(int idPlane, int distance, int numOfEngine, String name,
-                     int crew, double fuelConsumption, int capacity, double rateOfDischarge) {
-        super(idPlane, distance, numOfEngine, name, crew, fuelConsumption, capacity);
+    public Fireplane(int idPlane, int distance, int crew, double fuelConsumption, int capacity, double rateOfDischarge) {
+        super(idPlane, distance, crew, fuelConsumption, capacity);
         setRateOfDischarge(rateOfDischarge);
     }
 

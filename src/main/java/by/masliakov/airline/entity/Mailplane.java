@@ -5,21 +5,20 @@ package by.masliakov.airline.entity;
  */
 public class Mailplane extends Plane {
 
-    private String companyName;
+    private String company;
 
-    public Mailplane(int idPlane, int distance, int numOfEngine, String name,
-                     int crew, double fuelConsumption, int capacity, String companyName) {
-        super(idPlane, distance, numOfEngine, name, crew, fuelConsumption, capacity);
+    public Mailplane(int idPlane, int distance, int crew, double fuelConsumption, int capacity, String companyName) {
+        super(idPlane, distance, crew, fuelConsumption, capacity);
         setCompanyName(companyName);
     }
 
     public String getCompanyName() {
-        return companyName;
+        return company;
     }
 
     public void setCompanyName(String companyName) {
         if (companyName != null) {
-            this.companyName = companyName;
+            this.company = companyName;
         }
     }
 }

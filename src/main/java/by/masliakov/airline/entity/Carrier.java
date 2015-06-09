@@ -7,9 +7,8 @@ public class Carrier extends Plane {
 
     private String typeOfCargo;
 
-    public Carrier(int idPlane, int maxDistance, int numOfEngine, String name,
-                   int crew, double fuelConsumption, int capacity, String typeOfCargo) {
-        super(idPlane, maxDistance, numOfEngine, name, crew, fuelConsumption, capacity);
+    public Carrier(int idPlane, int maxDistance, int crew, double fuelConsumption, int capacity, String typeOfCargo) {
+        super(idPlane, maxDistance, crew, fuelConsumption, capacity);
         setTypeOfCargo(typeOfCargo);
     }
 

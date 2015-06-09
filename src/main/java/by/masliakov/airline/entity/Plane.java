@@ -8,18 +8,14 @@ import java.util.Comparator;
 abstract public class Plane {
 
     private int maxDistance;
-    private int numOfEngine;
     private int idPlane;
-    private String brand;
     private int crew;
     private double fuelConsumption;
     private int capacity;
 
-    public Plane(int idPlane, int distance, int numOfEngine, String brand, int crew, double fuelConsumption, int capacity) {
+    public Plane(int idPlane, int distance, int crew, double fuelConsumption, int capacity) {
         setIdPlane(idPlane);
         setMaxDistance(distance);
-        setNumOfEngine(numOfEngine);
-        setBrand(brand);
         setCrew(crew);
         setFuelConsumption(fuelConsumption);
         setCapacity(capacity);
@@ -57,26 +53,6 @@ abstract public class Plane {
         }
     }
 
-    public int getNumOfEngine() {
-        return numOfEngine;
-    }
-
-    public void setNumOfEngine(int numOfEngine) {
-        if (numOfEngine > 0) {
-            this.numOfEngine = numOfEngine;
-        }
-    }
-
-    public String getBrand() {
-        return brand;
-    }
-
-    public void setBrand(String brand) {
-        if (brand != null) {
-            this.brand = brand;
-        }
-    }
-
     public int getCrew() {
         return crew;
     }
@@ -97,7 +73,7 @@ abstract public class Plane {
     }
 
     public String toString() {
-        return getIdPlane() + " " + getBrand() + " " + getMaxDistance() + " " + getNumOfEngine() + " "
+        return getIdPlane() + " " + " " + getMaxDistance() + " " + " "
                 + " " + getCapacity() + " " + getCrew() + " " + getFuelConsumption();
     }
 }

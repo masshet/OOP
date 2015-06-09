@@ -7,9 +7,8 @@ public class Sportplane extends Plane {
 
     private String kindOfSport;
 
-    public Sportplane(int idPlane, int distance, int numOfEngine, String name,
-                      int crew, double fuelConsumption, int capacity, String kindOfSport) {
-        super(idPlane, distance, numOfEngine, name, crew, fuelConsumption, capacity);
+    public Sportplane(int idPlane, int distance, int crew, double fuelConsumption, int capacity, String kindOfSport) {
+        super(idPlane, distance, crew, fuelConsumption, capacity);
         setKindOfSport(kindOfSport);
     }
 

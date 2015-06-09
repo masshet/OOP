@@ -7,9 +7,8 @@ public class Airliner extends Plane {
 
     private int numOfPass;
 
-    public Airliner(int idPlane, int maxDistance, int numOfEngine, String name,
-                    int crew, double fuelConsumption, int capacity, int numOfPass) {
-        super(idPlane, maxDistance, numOfEngine, name, crew, fuelConsumption, capacity);
+    public Airliner(int idPlane, int maxDistance, int crew, double fuelConsumption, int capacity, int numOfPass) {
+        super(idPlane, maxDistance, crew, fuelConsumption, capacity);
         setNumOfPass(numOfPass);
     }
 
