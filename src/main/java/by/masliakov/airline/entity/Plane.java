@@ -73,7 +73,6 @@ abstract public class Plane {
     }
 
     public String toString() {
-        return getIdPlane() + " " + " " + getMaxDistance() + " " + " "
-                + " " + getCapacity() + " " + getCrew() + " " + getFuelConsumption();
+        return getIdPlane() + " " + getMaxDistance() + " " + getCapacity() + " " + getCrew() + " " + getFuelConsumption();
     }
 }

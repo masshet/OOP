@@ -7,6 +7,8 @@ public class Airliner extends Plane {
 
     private int numOfPass;
 
+    public Airliner(){}
+
     public Airliner(int idPlane, int maxDistance, int crew, double fuelConsumption, int capacity, int numOfPass) {
         super(idPlane, maxDistance, crew, fuelConsumption, capacity);
         setNumOfPass(numOfPass);
@@ -20,5 +22,9 @@ public class Airliner extends Plane {
         if (numOfPass > 0) {
             this.numOfPass = numOfPass;
         }
+    }
+
+    public String toString() {
+        return super.toString() + " " + getNumOfPass();
     }
 }

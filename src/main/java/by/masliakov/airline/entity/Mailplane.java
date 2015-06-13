@@ -7,6 +7,8 @@ public class Mailplane extends Plane {
 
     private String company;
 
+    public Mailplane() {}
+
     public Mailplane(int idPlane, int distance, int crew, double fuelConsumption, int capacity, String companyName) {
         super(idPlane, distance, crew, fuelConsumption, capacity);
         setCompanyName(companyName);
@@ -20,5 +22,9 @@ public class Mailplane extends Plane {
         if (companyName != null) {
             this.company = companyName;
         }
+    }
+
+    public String toString() {
+        return super.toString() + " " + getCompanyName();
     }
 }

@@ -7,6 +7,8 @@ public class Carrier extends Plane {
 
     private String typeOfCargo;
 
+    public Carrier() {}
+
     public Carrier(int idPlane, int maxDistance, int crew, double fuelConsumption, int capacity, String typeOfCargo) {
         super(idPlane, maxDistance, crew, fuelConsumption, capacity);
         setTypeOfCargo(typeOfCargo);
@@ -20,5 +22,9 @@ public class Carrier extends Plane {
         if (typeOfCargo != null) {
             this.typeOfCargo = typeOfCargo;
         }
+    }
+
+    public String toString() {
+        return super.toString() + " " + getTypeOfCargo();
     }
 }

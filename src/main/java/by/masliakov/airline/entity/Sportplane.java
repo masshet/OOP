@@ -7,6 +7,8 @@ public class Sportplane extends Plane {
 
     private String kindOfSport;
 
+    public Sportplane() {}
+
     public Sportplane(int idPlane, int distance, int crew, double fuelConsumption, int capacity, String kindOfSport) {
         super(idPlane, distance, crew, fuelConsumption, capacity);
         setKindOfSport(kindOfSport);
@@ -20,5 +22,9 @@ public class Sportplane extends Plane {
         if (kindOfSport != null) {
             this.kindOfSport = kindOfSport;
         }
+    }
+
+    public String toString() {
+        return super.toString() + " " + getKindOfSport();
     }
 }

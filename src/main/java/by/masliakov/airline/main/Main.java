@@ -2,6 +2,7 @@ package by.masliakov.airline.main;
 
 import by.masliakov.airline.common.DOMBuilder;
 import by.masliakov.airline.common.FileConnection;
+import by.masliakov.airline.common.SAXBuilder;
 import by.masliakov.airline.entity.Airline;
 import by.masliakov.airline.exception.TechnicalException;
 import by.masliakov.airline.exception.WrongConfigurationException;
@@ -29,13 +30,16 @@ public class Main {
             document = fileConnection.connect();
 
             Airline airline1= (new DOMBuilder()).createAirline(document);
-            for (int i = 0; i < airline1.getNumberOfPlanes(); i++) {
-                LOG.info(airline1.getPlainById(i).getIdPlane() + " " + airline1.getPlainById(i).getMaxDistance());
-            }
+            airline1.printPlanes();
         } catch (TechnicalException e) {
             LOG.error(e);
         } catch (WrongConfigurationException e) {
             LOG.error(e);
         }
+
+        SAXBuilder saxBuilder = new SAXBuilder();
+        saxBuilder.createSetPlanes("src/main/resources/planelist.xml");
+        Airline airline2 = saxBuilder.getAirline();
+        airline2.printPlanes();
     }
 }

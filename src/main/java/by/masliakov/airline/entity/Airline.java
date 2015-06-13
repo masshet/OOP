@@ -1,5 +1,7 @@
 package by.masliakov.airline.entity;
 
+import org.apache.log4j.Logger;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -8,6 +10,8 @@ import java.util.Comparator;
  * Created by mrstark on 21.5.15.
  */
 public class Airline {
+
+    final static Logger LOG = Logger.getLogger(Airline.class);
 
     private String name;
     private ArrayList<Plane> planes;
@@ -52,5 +56,12 @@ public class Airline {
                 return Integer.compare(o1.getMaxDistance(), o2.getMaxDistance());
             }
         });
+    }
+
+    public void printPlanes() {
+        LOG.info(getName());
+        for (int i = 0; i < getNumberOfPlanes(); i++) {
+            LOG.info(getPlainById(i).toString());
+        }
     }
 }

@@ -1,6 +1,7 @@
 package by.masliakov.airline.common;
 
 import by.masliakov.airline.entity.*;
+import org.apache.log4j.Logger;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
@@ -10,9 +11,13 @@ import org.w3c.dom.NodeList;
  * Created by mrstark on 9.6.15.
  */
 public class DOMBuilder {
+
+    final static Logger LOG = Logger.getLogger(DOMBuilder.class);
+
     private Airline airline;
 
     public Airline createAirline(Document document) {
+        LOG.info("DOMBuilder start");
         Element root = document.getDocumentElement();
         airline = new Airline(root.getAttribute("name"));
         NodeList nodeList = root.getElementsByTagName("plane");
@@ -23,8 +28,8 @@ public class DOMBuilder {
     }
 
     public Plane createPlane(Element element) {
-        int idPlane = Integer.parseInt(element.getAttributes().getNamedItem("id").getNodeValue());
-        int type = Integer.parseInt(element.getAttributes().getNamedItem("type").getNodeValue());
+        int idPlane = Integer.parseInt(getAttributeTextContent(element, "id"));
+        int type = Integer.parseInt(getAttributeTextContent(element, "type"));
         int distance = Integer.parseInt(getElementTextContent(element, "distance"));
         int crew = Integer.parseInt(getElementTextContent(element, "crew"));
         double fuelConsumption = Double.parseDouble(getElementTextContent(element, "fuel"));
@@ -48,6 +53,10 @@ public class DOMBuilder {
             default:
                 throw new IllegalArgumentException("illegal mode");
         }
+    }
+
+    private static String getAttributeTextContent(Element element, String name) {
+        return element.getAttributes().getNamedItem(name).getNodeValue();
     }
 
     private static String getElementTextContent(Element element, String name) {
