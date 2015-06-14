@@ -14,7 +14,9 @@ public enum PlaneEnum {
     CARGO("cargo"),
     DISCHARGE("discharge"),
     SPORT("sport"),
-    COMPANY("company");
+    COMPANY("company"),
+    TYPE("type"),
+    ID("id");
     private String value;
     private PlaneEnum(String value) {
         this.value = value;

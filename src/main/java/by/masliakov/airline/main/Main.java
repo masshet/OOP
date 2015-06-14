@@ -3,6 +3,7 @@ package by.masliakov.airline.main;
 import by.masliakov.airline.common.DOMBuilder;
 import by.masliakov.airline.common.FileConnection;
 import by.masliakov.airline.common.SAXBuilder;
+import by.masliakov.airline.common.StAXBuilder;
 import by.masliakov.airline.entity.Airline;
 import by.masliakov.airline.exception.TechnicalException;
 import by.masliakov.airline.exception.WrongConfigurationException;
@@ -13,33 +14,49 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
 
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
 /**
  * Created by mrstark on 21.5.15.
  */
 public class Main {
 
+    final static String FILE_NAME = "src/main/resources/planelist.xml";
     final static Logger LOG = Logger.getLogger(Main.class);
     static {
         new DOMConfigurator().doConfigure("src/main/resources/log4j2.xml", LogManager.getLoggerRepository());
     }
 
     public static void main(String[] args)  {
-        FileConnection fileConnection = new FileConnection("src/main/resources/planelist.xml");
-        Document document = null;
+        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+        System.out.println("Choose parser (1.DOM/2.SAX/3.StAX): ");
         try {
-            document = fileConnection.connect();
-
-            Airline airline1= (new DOMBuilder()).createAirline(document);
-            airline1.printPlanes();
-        } catch (TechnicalException e) {
-            LOG.error(e);
-        } catch (WrongConfigurationException e) {
+            String s = bufferedReader.readLine();
+            switch (Integer.parseInt(s)) {
+                case 1:
+                    DOMBuilder domBuilder = new DOMBuilder();
+                    Airline airline1= domBuilder.createAirline(FILE_NAME);
+                    airline1.printPlanes();
+                    break;
+                case 2:
+                    SAXBuilder saxBuilder = new SAXBuilder();
+                    saxBuilder.createSetPlanes(FILE_NAME);
+                    Airline airline2 = saxBuilder.getAirline();
+                    airline2.printPlanes();
+                    break;
+                case 3:
+                    StAXBuilder stAXBuilder = new StAXBuilder();
+                    stAXBuilder.buildAirline(FILE_NAME);
+                    Airline airline3 = stAXBuilder.getAirline();
+                    airline3.printPlanes();
+                    break;
+                default:
+                    LOG.error("Wrong input data!");
+            }
+        } catch (IOException e) {
             LOG.error(e);
         }
-
-        SAXBuilder saxBuilder = new SAXBuilder();
-        saxBuilder.createSetPlanes("src/main/resources/planelist.xml");
-        Airline airline2 = saxBuilder.getAirline();
-        airline2.printPlanes();
     }
 }

@@ -1,6 +1,8 @@
 package by.masliakov.airline.common;
 
 import by.masliakov.airline.entity.*;
+import by.masliakov.airline.exception.TechnicalException;
+import by.masliakov.airline.exception.WrongConfigurationException;
 import org.apache.log4j.Logger;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
@@ -16,7 +18,16 @@ public class DOMBuilder {
 
     private Airline airline;
 
-    public Airline createAirline(Document document) {
+    public Airline createAirline(String fileName) {
+        FileConnection fileConnection = new FileConnection(fileName);
+        Document document = null;
+        try {
+            document = fileConnection.connect();
+        } catch (TechnicalException e) {
+            e.printStackTrace();
+        } catch (WrongConfigurationException e) {
+            e.printStackTrace();
+        }
         LOG.info("DOMBuilder start");
         Element root = document.getDocumentElement();
         airline = new Airline(root.getAttribute("name"));

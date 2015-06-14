@@ -69,4 +69,144 @@
         <capacity>5000</capacity>
         <cargo>animals</cargo>
     </plane>
+    <plane id="11" type="1">
+        <distance>1800</distance>
+        <crew>3</crew>
+        <fuel>4500</fuel>
+        <capacity>3800</capacity>
+        <pass>500</pass>
+    </plane>
+    <plane id="12" type="2">
+        <distance>2000</distance>
+        <crew>10</crew>
+        <fuel>6200</fuel>
+        <capacity>4000</capacity>
+        <cargo>transport</cargo>
+    </plane>
+    <plane id="13" type="3">
+        <distance>700</distance>
+        <crew>1</crew>
+        <fuel>50</fuel>
+        <capacity>200</capacity>
+        <sport>race</sport>
+    </plane>
+    <plane id="14" type="4">
+        <distance>3500</distance>
+        <crew>4</crew>
+        <fuel>800</fuel>
+        <capacity>2500</capacity>
+        <discharge>1</discharge>
+    </plane>
+    <plane id="15" type="5">
+        <distance>3700</distance>
+        <crew>5</crew>
+        <fuel>1200</fuel>
+        <capacity>2000</capacity>
+        <company>FedEx</company>
+    </plane>
+    <plane id="16" type="2">
+        <distance>5200</distance>
+        <crew>12</crew>
+        <fuel>4500</fuel>
+        <capacity>300</capacity>
+        <cargo>bagage</cargo>
+    </plane>
+    <plane id="17" type="1">
+        <distance>10000</distance>
+        <crew>20</crew>
+        <fuel>8500</fuel>
+        <capacity>3000</capacity>
+        <pass>600</pass>
+    </plane>
+    <plane id="18" type="1">
+        <distance>3200</distance>
+        <crew>4</crew>
+        <fuel>6200</fuel>
+        <capacity>1500</capacity>
+        <pass>300</pass>
+    </plane>
+    <plane id="19" type="4">
+        <distance>2500</distance>
+        <crew>3</crew>
+        <fuel>900</fuel>
+        <capacity>4500</capacity>
+        <discharge>2</discharge>
+    </plane>
+    <plane id="20" type="2">
+        <distance>3000</distance>
+        <crew>4</crew>
+        <fuel>4500</fuel>
+        <capacity>5000</capacity>
+        <cargo>animals</cargo>
+    </plane>
+    <plane id="21" type="1">
+        <distance>1800</distance>
+        <crew>3</crew>
+        <fuel>4500</fuel>
+        <capacity>3800</capacity>
+        <pass>500</pass>
+    </plane>
+    <plane id="22" type="2">
+        <distance>2000</distance>
+        <crew>10</crew>
+        <fuel>6200</fuel>
+        <capacity>4000</capacity>
+        <cargo>transport</cargo>
+    </plane>
+    <plane id="23" type="3">
+        <distance>700</distance>
+        <crew>1</crew>
+        <fuel>50</fuel>
+        <capacity>200</capacity>
+        <sport>race</sport>
+    </plane>
+    <plane id="24" type="4">
+        <distance>3500</distance>
+        <crew>4</crew>
+        <fuel>800</fuel>
+        <capacity>2500</capacity>
+        <discharge>1</discharge>
+    </plane>
+    <plane id="25" type="5">
+        <distance>3700</distance>
+        <crew>5</crew>
+        <fuel>1200</fuel>
+        <capacity>2000</capacity>
+        <company>FedEx</company>
+    </plane>
+    <plane id="26" type="2">
+        <distance>5200</distance>
+        <crew>12</crew>
+        <fuel>4500</fuel>
+        <capacity>300</capacity>
+        <cargo>bagage</cargo>
+    </plane>
+    <plane id="27" type="1">
+        <distance>10000</distance>
+        <crew>20</crew>
+        <fuel>8500</fuel>
+        <capacity>3000</capacity>
+        <pass>600</pass>
+    </plane>
+    <plane id="28" type="1">
+        <distance>3200</distance>
+        <crew>4</crew>
+        <fuel>6200</fuel>
+        <capacity>1500</capacity>
+        <pass>300</pass>
+    </plane>
+    <plane id="29" type="4">
+        <distance>2500</distance>
+        <crew>3</crew>
+        <fuel>900</fuel>
+        <capacity>4500</capacity>
+        <discharge>2</discharge>
+    </plane>
+    <plane id="30" type="2">
+        <distance>3000</distance>
+        <crew>4</crew>
+        <fuel>4500</fuel>
+        <capacity>5000</capacity>
+        <cargo>animals</cargo>
+    </plane>
 </airline>

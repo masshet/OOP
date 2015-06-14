@@ -1,0 +1,1340 @@
+13.06.2015 13:52:37 [main] INFO  by.masliakov.airline.common.DOMBuilder  - DOMBuilder start
+13.06.2015 13:52:37 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 13:52:37 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 13:52:37 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 13:52:37 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 13:52:37 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 13:52:37 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 13:52:37 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 13:52:37 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 13:52:37 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 13:52:37 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 13:52:37 [main] INFO  by.masliakov.airline.common.SAXBuilder  - SAXBuilder created
+13.06.2015 14:13:05 [main] INFO  by.masliakov.airline.common.DOMBuilder  - DOMBuilder start
+13.06.2015 14:13:05 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 14:13:05 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 14:13:05 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 14:13:05 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 14:13:05 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 14:13:05 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 14:13:05 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 14:13:05 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 14:13:05 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 14:13:05 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 14:13:05 [main] INFO  by.masliakov.airline.common.SAXBuilder  - SAXBuilder created
+13.06.2015 14:13:57 [main] INFO  by.masliakov.airline.common.DOMBuilder  - DOMBuilder start
+13.06.2015 14:13:57 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 14:13:57 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 14:13:57 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 14:13:57 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 14:13:57 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 14:13:57 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 14:13:57 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 14:13:57 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 14:13:57 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 14:13:57 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 14:13:57 [main] INFO  by.masliakov.airline.common.PlaneHandler  - Handler created
+13.06.2015 14:13:57 [main] INFO  by.masliakov.airline.common.SAXBuilder  - SAXBuilder created
+13.06.2015 14:59:10 [main] INFO  by.masliakov.airline.common.DOMBuilder  - DOMBuilder start
+13.06.2015 14:59:10 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 14:59:10 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 14:59:10 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 14:59:10 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 14:59:10 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 14:59:10 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 14:59:10 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 14:59:10 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 14:59:10 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 14:59:10 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 14:59:10 [main] INFO  by.masliakov.airline.common.PlaneHandler  - Handler created
+13.06.2015 14:59:10 [main] INFO  by.masliakov.airline.common.SAXBuilder  - SAXBuilder created
+13.06.2015 14:59:10 [main] INFO  by.masliakov.airline.common.PlaneHandler  - airline
+13.06.2015 14:59:10 [main] INFO  by.masliakov.airline.common.PlaneHandler  - airline
+13.06.2015 15:04:36 [main] INFO  by.masliakov.airline.common.DOMBuilder  - DOMBuilder start
+13.06.2015 15:04:36 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 15:04:36 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 15:04:36 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 15:04:36 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 15:04:36 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 15:04:36 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 15:04:36 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 15:04:36 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 15:04:36 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 15:04:36 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 15:04:36 [main] INFO  by.masliakov.airline.common.PlaneHandler  - Handler created
+13.06.2015 15:04:36 [main] INFO  by.masliakov.airline.common.SAXBuilder  - SAXBuilder created
+13.06.2015 15:04:36 [main] INFO  by.masliakov.airline.common.PlaneHandler  - airline
+13.06.2015 15:04:36 [main] INFO  by.masliakov.airline.common.PlaneHandler  - airline
+13.06.2015 15:04:36 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:04:36 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:04:36 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:04:36 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:05:53 [main] INFO  by.masliakov.airline.common.DOMBuilder  - DOMBuilder start
+13.06.2015 15:05:53 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 15:05:53 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 15:05:53 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 15:05:53 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 15:05:53 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 15:05:53 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 15:05:53 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 15:05:53 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 15:05:53 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 15:05:53 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 15:05:53 [main] INFO  by.masliakov.airline.common.PlaneHandler  - Handler created
+13.06.2015 15:05:53 [main] INFO  by.masliakov.airline.common.SAXBuilder  - SAXBuilder created
+13.06.2015 15:05:53 [main] INFO  by.masliakov.airline.common.PlaneHandler  - airline
+13.06.2015 15:05:53 [main] INFO  by.masliakov.airline.common.PlaneHandler  - airline
+13.06.2015 15:05:53 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:05:53 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:05:53 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:05:53 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:05:53 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:05:53 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:05:53 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 1800
+13.06.2015 15:07:43 [main] INFO  by.masliakov.airline.common.DOMBuilder  - DOMBuilder start
+13.06.2015 15:07:43 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 15:07:43 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 15:07:43 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 15:07:43 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 15:07:43 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 15:07:43 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 15:07:43 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 15:07:43 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 15:07:43 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 15:07:43 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 15:07:43 [main] INFO  by.masliakov.airline.common.PlaneHandler  - Handler created
+13.06.2015 15:07:43 [main] INFO  by.masliakov.airline.common.SAXBuilder  - SAXBuilder created
+13.06.2015 15:07:43 [main] INFO  by.masliakov.airline.common.PlaneHandler  - airline
+13.06.2015 15:07:43 [main] INFO  by.masliakov.airline.common.PlaneHandler  - airline
+13.06.2015 15:07:43 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 1
+13.06.2015 15:07:43 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:07:43 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:07:43 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:07:43 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2
+13.06.2015 15:07:43 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:07:43 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:07:43 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:07:43 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:07:43 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 1800
+13.06.2015 15:11:48 [main] INFO  by.masliakov.airline.common.DOMBuilder  - DOMBuilder start
+13.06.2015 15:11:48 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 15:11:48 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 15:11:48 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 15:11:48 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 15:11:48 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 15:11:48 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 15:11:48 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 15:11:48 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 15:11:48 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 15:11:48 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 15:11:48 [main] INFO  by.masliakov.airline.common.PlaneHandler  - Handler created
+13.06.2015 15:11:48 [main] INFO  by.masliakov.airline.common.SAXBuilder  - SAXBuilder created
+13.06.2015 15:11:48 [main] INFO  by.masliakov.airline.common.PlaneHandler  - airline
+13.06.2015 15:11:48 [main] INFO  by.masliakov.airline.common.PlaneHandler  - airline
+13.06.2015 15:11:48 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 1
+13.06.2015 15:11:48 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:11:48 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:11:48 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:11:48 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2
+13.06.2015 15:11:48 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:11:48 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:11:48 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:11:48 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:11:48 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 1800
+13.06.2015 15:12:19 [main] INFO  by.masliakov.airline.common.DOMBuilder  - DOMBuilder start
+13.06.2015 15:12:19 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 15:12:19 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 15:12:19 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 15:12:19 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 15:12:19 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 15:12:19 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 15:12:19 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 15:12:19 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 15:12:19 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 15:12:19 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 15:12:19 [main] INFO  by.masliakov.airline.common.PlaneHandler  - Handler created
+13.06.2015 15:12:19 [main] INFO  by.masliakov.airline.common.SAXBuilder  - SAXBuilder created
+13.06.2015 15:12:19 [main] INFO  by.masliakov.airline.common.PlaneHandler  - airline
+13.06.2015 15:12:19 [main] INFO  by.masliakov.airline.common.PlaneHandler  - airline
+13.06.2015 15:12:19 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 1
+13.06.2015 15:12:19 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:12:19 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:12:19 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:12:19 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2
+13.06.2015 15:12:19 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:12:19 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:12:19 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:12:19 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:12:19 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 1800
+13.06.2015 15:13:30 [main] INFO  by.masliakov.airline.common.DOMBuilder  - DOMBuilder start
+13.06.2015 15:13:30 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 15:13:30 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 15:13:30 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 15:13:30 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 15:13:30 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 15:13:30 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 15:13:30 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 15:13:30 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 15:13:30 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 15:13:30 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 15:13:30 [main] INFO  by.masliakov.airline.common.PlaneHandler  - Handler created
+13.06.2015 15:13:30 [main] INFO  by.masliakov.airline.common.SAXBuilder  - SAXBuilder created
+13.06.2015 15:13:30 [main] INFO  by.masliakov.airline.common.PlaneHandler  - airline
+13.06.2015 15:13:30 [main] INFO  by.masliakov.airline.common.PlaneHandler  - airline
+13.06.2015 15:13:30 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 1
+13.06.2015 15:13:30 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane tag
+13.06.2015 15:13:30 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:13:30 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:13:30 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:13:30 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2
+13.06.2015 15:13:30 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane tag
+13.06.2015 15:13:30 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:13:30 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:13:30 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:13:30 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:13:30 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane tag
+13.06.2015 15:13:30 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 1800
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.DOMBuilder  - DOMBuilder start
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - Handler created
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.SAXBuilder  - SAXBuilder created
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - airline
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - airline
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 1
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane tag
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 1800
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 3
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 4500
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 3800
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - pass
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - pass
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 500
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane tag
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2000
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 10
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 6200
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 4000
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - cargo
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - cargo
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - transport
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane tag
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 700
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 1
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 50
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 200
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - sport
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - sport
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - race
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane tag
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 3500
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 4
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 800
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2500
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - discharge
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - discharge
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 1
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane tag
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 3700
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 5
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 1200
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2000
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - company
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - company
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - FedEx
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane tag
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 5200
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 12
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 4500
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 300
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - cargo
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - cargo
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - bagage
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane tag
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 10000
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 20
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 8500
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 3000
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - pass
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - pass
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 600
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane tag
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 3200
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 4
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 6200
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 1500
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - pass
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - pass
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 300
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane tag
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2500
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 3
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 900
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 4500
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - discharge
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - discharge
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane tag
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 3000
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 4
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 4500
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 5000
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - cargo
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - cargo
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - animals
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:14:21 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:15:20 [main] INFO  by.masliakov.airline.common.DOMBuilder  - DOMBuilder start
+13.06.2015 15:15:20 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 15:15:20 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 15:15:20 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 15:15:20 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 15:15:20 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 15:15:20 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 15:15:20 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 15:15:20 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 15:15:20 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 15:15:20 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 15:15:20 [main] INFO  by.masliakov.airline.common.PlaneHandler  - Handler created
+13.06.2015 15:15:20 [main] INFO  by.masliakov.airline.common.SAXBuilder  - SAXBuilder created
+13.06.2015 15:15:20 [main] INFO  by.masliakov.airline.common.PlaneHandler  - airline
+13.06.2015 15:15:20 [main] INFO  by.masliakov.airline.common.PlaneHandler  - airline
+13.06.2015 15:15:20 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 1
+13.06.2015 15:15:20 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:15:20 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:15:20 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:15:20 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:15:20 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2
+13.06.2015 15:15:20 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:15:20 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:15:20 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:15:20 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:15:20 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:15:20 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:15:20 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 1800
+13.06.2015 15:16:38 [main] INFO  by.masliakov.airline.common.DOMBuilder  - DOMBuilder start
+13.06.2015 15:16:38 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 15:16:38 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 15:16:38 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 15:16:38 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 15:16:38 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 15:16:38 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 15:16:38 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 15:16:38 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 15:16:38 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 15:16:38 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 15:16:38 [main] INFO  by.masliakov.airline.common.PlaneHandler  - Handler created
+13.06.2015 15:16:38 [main] INFO  by.masliakov.airline.common.SAXBuilder  - SAXBuilder created
+13.06.2015 15:16:38 [main] INFO  by.masliakov.airline.common.PlaneHandler  - airline
+13.06.2015 15:16:38 [main] INFO  by.masliakov.airline.common.PlaneHandler  - airline
+13.06.2015 15:16:38 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 1
+13.06.2015 15:16:38 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:16:38 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:16:38 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:16:38 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:16:38 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2
+13.06.2015 15:16:38 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:16:38 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:16:38 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:16:38 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:16:38 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:16:38 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:16:38 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 1800
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.DOMBuilder  - DOMBuilder start
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - Handler created
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.SAXBuilder  - SAXBuilder created
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - airline
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - airline
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 1
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane tag
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 1800
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 3
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 4500
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 3800
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - pass
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - pass
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 500
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane tag
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2000
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 10
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 6200
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 4000
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - cargo
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - cargo
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - transport
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane tag
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 700
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 1
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 50
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 200
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - sport
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - sport
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - race
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane tag
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 3500
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 4
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 800
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2500
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - discharge
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - discharge
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 1
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane tag
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 3700
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 5
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 1200
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2000
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - company
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - company
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - FedEx
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane tag
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 5200
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 12
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 4500
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 300
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - cargo
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - cargo
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - bagage
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane tag
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 10000
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 20
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 8500
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 3000
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - pass
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - pass
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 600
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane tag
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 3200
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 4
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 6200
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 1500
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - pass
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - pass
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 300
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane tag
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2500
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 3
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 900
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 4500
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - discharge
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - discharge
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - plane tag
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - distance
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 3000
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - crew
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 4
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fuel
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 4500
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - capacity
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 5000
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - cargo
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - cargo
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 0
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - PLANE
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - animals
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:17:27 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.DOMBuilder  - DOMBuilder start
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - Handler created
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.SAXBuilder  - SAXBuilder created
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 1800
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 3
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 4500
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 3800
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 500
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2000
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 10
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 6200
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 4000
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - transport
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 700
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 1
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 50
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 200
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - race
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 3500
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 4
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 800
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2500
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 1
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 3700
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 5
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 1200
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2000
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - FedEx
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 5200
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 12
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 4500
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 300
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - bagage
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 10000
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 20
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 8500
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 3000
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 600
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 3200
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 4
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 6200
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 1500
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 300
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2500
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 3
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 900
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 4500
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 2
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 3000
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 4
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 4500
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 5000
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - animals
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:18:17 [main] INFO  by.masliakov.airline.common.PlaneHandler  - 
+13.06.2015 15:22:38 [main] INFO  by.masliakov.airline.common.DOMBuilder  - DOMBuilder start
+13.06.2015 15:22:38 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 15:22:38 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 15:22:38 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 15:22:38 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 15:22:38 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 15:22:38 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 15:22:38 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 15:22:38 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 15:22:38 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 15:22:38 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 15:22:38 [main] INFO  by.masliakov.airline.common.PlaneHandler  - Handler created
+13.06.2015 15:22:38 [main] INFO  by.masliakov.airline.common.SAXBuilder  - SAXBuilder created
+13.06.2015 15:25:53 [main] INFO  by.masliakov.airline.common.DOMBuilder  - DOMBuilder start
+13.06.2015 15:25:53 [main] INFO  by.masliakov.airline.entity.Airline  - true
+13.06.2015 15:25:53 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 15:25:53 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 15:25:53 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 15:25:53 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 15:25:53 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 15:25:53 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 15:25:53 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 15:25:53 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 15:25:53 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 15:25:53 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 15:25:53 [main] INFO  by.masliakov.airline.common.PlaneHandler  - Handler created
+13.06.2015 15:25:53 [main] INFO  by.masliakov.airline.common.SAXBuilder  - SAXBuilder created
+13.06.2015 15:25:53 [main] INFO  by.masliakov.airline.entity.Airline  - true
+13.06.2015 15:26:09 [main] INFO  by.masliakov.airline.common.DOMBuilder  - DOMBuilder start
+13.06.2015 15:26:09 [main] INFO  by.masliakov.airline.entity.Airline  - 10
+13.06.2015 15:26:09 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 15:26:09 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 15:26:09 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 15:26:09 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 15:26:09 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 15:26:09 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 15:26:09 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 15:26:09 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 15:26:09 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 15:26:09 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 15:26:09 [main] INFO  by.masliakov.airline.common.PlaneHandler  - Handler created
+13.06.2015 15:26:09 [main] INFO  by.masliakov.airline.common.SAXBuilder  - SAXBuilder created
+13.06.2015 15:26:09 [main] INFO  by.masliakov.airline.entity.Airline  - 0
+13.06.2015 15:32:25 [main] INFO  by.masliakov.airline.common.DOMBuilder  - DOMBuilder start
+13.06.2015 15:32:25 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 15:32:25 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 15:32:25 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 15:32:25 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 15:32:25 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 15:32:25 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 15:32:25 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 15:32:25 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 15:32:25 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 15:32:25 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 15:32:25 [main] INFO  by.masliakov.airline.common.PlaneHandler  - Handler created
+13.06.2015 15:32:25 [main] INFO  by.masliakov.airline.common.SAXBuilder  - SAXBuilder created
+13.06.2015 15:32:25 [main] INFO  by.masliakov.airline.common.PlaneHandler  - airliner created
+13.06.2015 15:32:25 [main] INFO  by.masliakov.airline.common.PlaneHandler  - carrier created
+13.06.2015 15:32:25 [main] INFO  by.masliakov.airline.common.PlaneHandler  - sportplane created
+13.06.2015 15:32:25 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fireplane created
+13.06.2015 15:32:25 [main] INFO  by.masliakov.airline.common.PlaneHandler  - mailplane created
+13.06.2015 15:32:25 [main] INFO  by.masliakov.airline.common.PlaneHandler  - carrier created
+13.06.2015 15:32:25 [main] INFO  by.masliakov.airline.common.PlaneHandler  - airliner created
+13.06.2015 15:32:25 [main] INFO  by.masliakov.airline.common.PlaneHandler  - airliner created
+13.06.2015 15:32:25 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fireplane created
+13.06.2015 15:32:25 [main] INFO  by.masliakov.airline.common.PlaneHandler  - carrier created
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.common.DOMBuilder  - DOMBuilder start
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.common.PlaneHandler  - Handler created
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.common.SAXBuilder  - SAXBuilder created
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.common.PlaneHandler  - airliner created
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.common.PlaneHandler  - carrier created
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.common.PlaneHandler  - sportplane created
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fireplane created
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.common.PlaneHandler  - mailplane created
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.common.PlaneHandler  - carrier created
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.common.PlaneHandler  - airliner created
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.common.PlaneHandler  - airliner created
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.common.PlaneHandler  - fireplane created
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.common.PlaneHandler  - carrier created
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 15:32:50 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 16:36:05 [main] INFO  by.masliakov.airline.common.DOMBuilder  - DOMBuilder start
+13.06.2015 16:36:05 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 16:36:05 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 16:36:05 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 16:36:05 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 16:36:05 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 16:36:05 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 16:36:05 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 16:36:05 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 16:36:05 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 16:36:05 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 16:36:05 [main] INFO  by.masliakov.airline.common.PlaneHandler  - Handler created
+13.06.2015 16:36:05 [main] INFO  by.masliakov.airline.common.SAXBuilder  - SAXBuilder created
+13.06.2015 16:36:05 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 16:36:05 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 16:36:05 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 16:36:05 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 16:36:05 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 16:36:05 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 16:36:05 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 16:36:05 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 16:36:05 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 16:36:05 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 16:36:06 [main] INFO  by.masliakov.airline.common.DOMBuilder  - DOMBuilder start
+13.06.2015 16:36:06 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 16:36:06 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 16:36:06 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 16:36:06 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 16:36:06 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 16:36:06 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 16:36:06 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 16:36:06 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 16:36:06 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 16:36:06 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 16:36:06 [main] INFO  by.masliakov.airline.common.PlaneHandler  - Handler created
+13.06.2015 16:36:06 [main] INFO  by.masliakov.airline.common.SAXBuilder  - SAXBuilder created
+13.06.2015 16:36:06 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 16:36:06 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 16:36:06 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 16:36:06 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 16:36:06 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 16:36:06 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 16:36:06 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 16:36:06 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 16:36:06 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 16:36:06 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 16:36:53 [main] INFO  by.masliakov.airline.common.DOMBuilder  - DOMBuilder start
+13.06.2015 16:36:53 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 16:36:53 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 16:36:53 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 16:36:53 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 16:36:53 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 16:36:53 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 16:36:53 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 16:36:53 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 16:36:53 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 16:36:53 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 16:36:53 [main] INFO  by.masliakov.airline.common.SAXBuilder  - SAXBuilder created
+13.06.2015 16:36:53 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 16:36:53 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 16:36:53 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 16:36:53 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 16:36:53 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 16:36:53 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 16:36:53 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 16:36:53 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 16:36:53 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 16:36:53 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 17:37:37 [main] INFO  by.masliakov.airline.common.DOMBuilder  - DOMBuilder start
+13.06.2015 17:37:37 [main] INFO  by.masliakov.airline.entity.Airline  - Masliakov
+13.06.2015 17:37:37 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 17:37:37 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 17:37:37 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 17:37:37 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 17:37:37 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 17:37:37 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 17:37:37 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 17:37:37 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 17:37:37 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 17:37:37 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 17:37:37 [main] INFO  by.masliakov.airline.common.SAXBuilder  - SAXBuilder created
+13.06.2015 17:37:37 [main] INFO  by.masliakov.airline.entity.Airline  - 
+13.06.2015 17:37:37 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 17:37:37 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 17:37:37 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 17:37:37 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 17:37:37 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 17:37:37 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 17:37:37 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 17:37:37 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 17:37:37 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 17:37:37 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 17:40:44 [main] INFO  by.masliakov.airline.common.DOMBuilder  - DOMBuilder start
+13.06.2015 17:40:44 [main] INFO  by.masliakov.airline.entity.Airline  - Masliakov
+13.06.2015 17:40:44 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 17:40:44 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 17:40:44 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 17:40:44 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 17:40:44 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 17:40:44 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 17:40:44 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 17:40:44 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 17:40:44 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 17:40:44 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 17:40:44 [main] INFO  by.masliakov.airline.common.SAXBuilder  - SAXBuilder created
+13.06.2015 17:40:44 [main] INFO  by.masliakov.airline.entity.Airline  - 
+13.06.2015 17:40:44 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 17:40:44 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 17:40:44 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 17:40:44 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 17:40:44 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 17:40:44 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 17:40:44 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 17:40:44 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 17:40:44 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 17:40:44 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 17:41:55 [main] INFO  by.masliakov.airline.common.DOMBuilder  - DOMBuilder start
+13.06.2015 17:41:55 [main] INFO  by.masliakov.airline.entity.Airline  - Masliakov
+13.06.2015 17:41:55 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 17:41:55 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 17:41:55 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 17:41:55 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 17:41:55 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 17:41:55 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 17:41:55 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 17:41:55 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 17:41:55 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 17:41:55 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
+13.06.2015 17:41:55 [main] INFO  by.masliakov.airline.common.SAXBuilder  - SAXBuilder created
+13.06.2015 17:41:55 [main] INFO  by.masliakov.airline.entity.Airline  - Masliakov
+13.06.2015 17:41:55 [main] INFO  by.masliakov.airline.entity.Airline  - 1 1800 3800 3 4500.0 500
+13.06.2015 17:41:55 [main] INFO  by.masliakov.airline.entity.Airline  - 2 2000 4000 10 6200.0 transport
+13.06.2015 17:41:55 [main] INFO  by.masliakov.airline.entity.Airline  - 3 700 200 1 50.0 race
+13.06.2015 17:41:55 [main] INFO  by.masliakov.airline.entity.Airline  - 4 3500 2500 4 800.0 1.0
+13.06.2015 17:41:55 [main] INFO  by.masliakov.airline.entity.Airline  - 5 3700 2000 5 1200.0 FedEx
+13.06.2015 17:41:55 [main] INFO  by.masliakov.airline.entity.Airline  - 6 5200 300 12 4500.0 bagage
+13.06.2015 17:41:55 [main] INFO  by.masliakov.airline.entity.Airline  - 7 10000 3000 20 8500.0 600
+13.06.2015 17:41:55 [main] INFO  by.masliakov.airline.entity.Airline  - 8 3200 1500 4 6200.0 300
+13.06.2015 17:41:55 [main] INFO  by.masliakov.airline.entity.Airline  - 9 2500 4500 3 900.0 2.0
+13.06.2015 17:41:55 [main] INFO  by.masliakov.airline.entity.Airline  - 10 3000 5000 4 4500.0 animals
